@@ -1,0 +1,25 @@
+{
+  "name": "account-management-system",
+  "version": "2.0.0",
+  "description": "Student Account Management System - Modernized from COBOL legacy application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest --coverage",
+    "test:watch": "jest --watch"
+  },
+  "keywords": [
+    "account-management",
+    "banking",
+    "legacy-modernization",
+    "cobol-to-nodejs"
+  ],
+  "author": "Development Team",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
